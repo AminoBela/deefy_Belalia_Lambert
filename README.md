@@ -39,4 +39,5 @@ fonctionnalités.pdf, fichier detaillant les fonctionnalités appliquées
 style.css et index.php, pour l'affichage
 
 composer, pour le fonctionnement du projet
+
 projetdeffy.sql, base de données
