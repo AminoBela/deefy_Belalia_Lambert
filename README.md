@@ -1,7 +1,9 @@
 Projet réalise par:
 
-BELALIA BENDJAFAR, Amin
+BELALIA BENDJAFAR, Amin - amin.belalia-bendjafar6@etu.univ-lorraine.fr
+
 LAMBERT, Valentino
+
 S3B
 
 Les deux comptes d'exemples sont disponibles
